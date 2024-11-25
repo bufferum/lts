@@ -1,0 +1,19 @@
+{
+  "name": "bufferum",
+  "age": 20,
+  "studys": [
+    {
+      "educational_institution": "MGU_1",
+      "year_of_completion": 2020
+    },
+    {
+      "educational_institution": "MGU_2",
+      "year_of_completion": 2024
+    }
+  ],
+  "character_traits": [
+    "Kind",
+    "Wit",
+    "Brave"
+  ]
+}
