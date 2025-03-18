@@ -1,0 +1,10 @@
+lts.jar
+
+.git
+target
+bash
+css
+js
+
+src/test/resources/*
+Tasks.md
